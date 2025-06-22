@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\Uni\Semester 2\Sales Management System\Sales Management System\Source.cpp(316): warning C4715: 'menu::display': not all control paths return a value
+E:\Uni\Semester 2\Sales Management System\Sales Management System\Source.cpp(207): warning C4715: 'menu::load_menu_names': not all control paths return a value
+  Sales Management System.vcxproj -> E:\Uni\Semester 2\Sales Management System\x64\Debug\Sales Management System.exe

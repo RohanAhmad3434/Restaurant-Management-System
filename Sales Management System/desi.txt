@@ -1,0 +1,12 @@
+roti
+normal
+100
+1
+daal
+main
+120
+1
+chana
+main
+100
+0

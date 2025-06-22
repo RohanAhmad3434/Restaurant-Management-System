@@ -1,0 +1,8 @@
+wings
+min
+100
+1
+pizza
+spicy
+1000
+1
