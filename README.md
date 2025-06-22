@@ -47,6 +47,7 @@ A comprehensive console-based application for managing all aspects of a restaura
    Create a manager.txt file with your credentials:
    admin
    password123
+   
 4. Run the compiled executable:
    ./restaurant_management
 
@@ -54,7 +55,7 @@ A comprehensive console-based application for managing all aspects of a restaura
 
 🚀 Main Menu Options:
 
-1) Manager Activities (requires login)
+1) Manager Activities (requires login):
    -Manage menus and dishes
    -View sales reports
    -Analyze specific dish performance
@@ -64,9 +65,9 @@ A comprehensive console-based application for managing all aspects of a restaura
    -Manage customer orders
    -View/Update customer details
 
-4) Employee Panel
+3) Employee Panel:
    -Add/Remove employees
    -Assign orders to staff
    -View employee details
 
-5) Exit Program
+4) Exit Program
