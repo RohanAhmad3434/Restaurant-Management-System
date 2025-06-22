@@ -33,6 +33,7 @@ A comprehensive console-based application for managing all aspects of a restaura
 - Role-based access control
 
 
+
 💻 Installation
 
 1. Prerequisites:
@@ -50,21 +51,22 @@ A comprehensive console-based application for managing all aspects of a restaura
    ./restaurant_management
 
 
+
 🚀 Main Menu Options:
 
 1) Manager Activities (requires login)
-   Manage menus and dishes
-   View sales reports
-   Analyze specific dish performance
+   -Manage menus and dishes
+   -View sales reports
+   -Analyze specific dish performance
 
-2) Customer Panel
-   Add new customers
-   Manage customer orders
-   View/Update customer details
+2) Customer Panel:
+   -Add new customers
+   -Manage customer orders
+   -View/Update customer details
 
-3) Employee Panel
-   Add/Remove employees
-   Assign orders to staff
-   View employee details
+4) Employee Panel
+   -Add/Remove employees
+   -Assign orders to staff
+   -View employee details
 
-4) Exit Program
+5) Exit Program
